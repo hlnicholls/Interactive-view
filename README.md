@@ -3,9 +3,9 @@
 
 Machine learning for prioritising genes post-GWAS in blood pressure loci.
 
-- Eleven machine learning models were benchmarked on their performance for predicting most likely causal blood pressure genes post-GWAS.
+- Seven machine learning models were benchmarked on their performance for predicting most likely causal blood pressure genes post-GWAS.
 
-- The top performing model (extreme gradient boosting) had its interpretability examined using the SHAP python package, creating interactive jupyter notebooks to explore output SHAP results.
+- The top performing model (catboosting) had its interpretability examined using the SHAP python package, creating interactive jupyter notebooks to explore output SHAP results.
 
 ## Notebook:
 
