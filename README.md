@@ -9,4 +9,4 @@ Machine learning for prioritising genes post-GWAS in blood pressure loci.
 
 ## Notebook:
 
-- *Interactive_SHAP_Plot.ipynb* includes an interactive shap plot and additional static table and can be viewed in nbviewer (https://nbviewer.org/github/hlnicholls/interactive-view/blob/main/Interactive_SHAP.html) or binder (accessed by binder badge above).
+- *Interactive_SHAP_Plot.ipynb* includes an interactive shap plot and additional static table and can be viewed in nbviewer (https://nbviewer.org/github/hlnicholls/interactive-view/blob/main/Interactive_SHAP_Plot.html) or binder (accessed by binder badge above).
